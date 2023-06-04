@@ -3,8 +3,8 @@
 // mod types;
 // mod strings;
 // mod reverseTheArray;
-mod tuples;
-
+// mod tuples;
+mod arrays;
 
 fn main() {
     // print::run();
@@ -14,7 +14,6 @@ fn main() {
     // let test_array:Vec<i32> = vec![1,2,3,3,5];
     // let returnedValue = reverseTheArray::run(test_array);
     // println!("{:?}",returnedValue);
-    tuples::run(); 
-
-
+    // tuples::run();
+    arrays::run();
 }
